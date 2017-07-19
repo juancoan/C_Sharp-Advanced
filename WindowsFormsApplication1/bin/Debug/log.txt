@@ -1,0 +1,181 @@
+
+Log Entry : 1:08:22 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:22 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:23 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:23 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:23 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:23 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:25 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:26 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:26 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:26 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:26 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:27 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:27 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:27 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:27 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:28 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:28 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:29 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:29 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:29 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:08:29 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:20:09 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:20:09 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+
+Log Entry : 1:20:10 PM Wednesday, December 2, 2015
+  :
+  :Cliente: Mensaje Deserializado
+-------------------------------
+3:09:48 PM Servidor: Servidor Corriendo
+3:09:48 PM Servidor: Thread: 0 Esperando Conexion
+4:49:53 PM [TCPServer]  Servidor Corriendo en 5888
+4:49:53 PM [TCPServer]  Thread: 0 Esperando Conexion
+4:50:35 PM [TCPServer]  Servidor Corriendo en 5888
+4:50:35 PM [TCPServer]  Thread: 0 Esperando Conexion
+4:50:47 PM [TCPServer]  Thread: 0 Conexion de: 127.0.0.1:54130
+4:50:47 PM [TCPServer]  Thread: 0 Esperando Conexion
+4:50:47 PM [TCPServer]  Thread Trabajando : 14
+4:50:51 PM [TCPClient]   Thread: 0 ---> Serializado, Mensaje Enviado al Servidor
+4:50:51 PM [TCPServer]  Thread0 [ENVIADO]: Codigo 100:  ++ Inventario no Asignado ++
+4:50:51 PM [TCPClient]   Thread: 11 ---> Deserializado, Mensaje Recibido del Servidor
+4:50:51 PM [TCPClient]   Thread: 11 ---> Serializado, Mensaje Enviado al Servidor
+4:50:51 PM [TCPServer]  Thread0 [ENVIADO]: Codigo 101:  ++ Inventario Disponible ++
+4:50:51 PM [TCPClient]   Thread: 11 ---> Serializado, Mensaje Enviado al Servidor
+4:50:51 PM [TCPServer]  Thread0 [ENVIADO]: Codigo 102:  ++ Inventario Agotado ++

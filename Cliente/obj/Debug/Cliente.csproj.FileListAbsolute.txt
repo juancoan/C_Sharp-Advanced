@@ -1,0 +1,16 @@
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Cliente.exe
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Negocio.dll
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Datos.dll
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Negocio.pdb
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Negocio.xml
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Datos.pdb
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\bin\Debug\Datos.xml
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.Agregar_Producto.resources
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.Cliente_Form.resources
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.exe
+C:\Users\Adolfo\Documents\UNED\2015\2015 Tercer Cuatrimestre\830 Programacion Avanzada\Proyecto1\ComidasRapidas_830\Cliente\obj\Debug\Cliente.pdb
